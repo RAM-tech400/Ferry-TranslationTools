@@ -1,4 +1,5 @@
 #include "mainwindow.h"
+#include "projectSetupDialog.h"
 #include "ui_mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -11,4 +12,10 @@ MainWindow::MainWindow(QWidget *parent)
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+void MainWindow::on_pushButton_clicked()
+{
+    ProjectSetupDialog projectSetupDialog(this);
+    projectSetupDialog.exec();
 }
