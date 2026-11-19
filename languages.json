@@ -1,0 +1,807 @@
+[
+    {
+        "language_code": "af",
+        "label": "Afrikaans",
+        "native_label": "Afrikaans",
+        "direction": "ltr",
+        "flag": "🇿🇦"
+    },
+    {
+        "language_code": "sq",
+        "label": "Albanian",
+        "native_label": "Shqip",
+        "direction": "ltr",
+        "flag": "🇦🇱"
+    },
+    {
+        "language_code": "am",
+        "label": "Amharic",
+        "native_label": "አማርኛ",
+        "direction": "ltr",
+        "flag": "🇪🇹"
+    },
+    {
+        "language_code": "ar",
+        "label": "Arabic",
+        "native_label": "العربية",
+        "direction": "rtl",
+        "flag": "🇸🇦"
+    },
+    {
+        "language_code": "hy",
+        "label": "Armenian",
+        "native_label": "Հայերեն",
+        "direction": "ltr",
+        "flag": "🇦🇲"
+    },
+    {
+        "language_code": "az",
+        "label": "Azerbaijani",
+        "native_label": "Azərbaycanca",
+        "direction": "ltr",
+        "flag": "🇦🇿"
+    },
+    {
+        "language_code": "eu",
+        "label": "Basque",
+        "native_label": "Euskara",
+        "direction": "ltr",
+        "flag": "🇪🇸"
+    },
+    {
+        "language_code": "be",
+        "label": "Belarusian",
+        "native_label": "Беларуская",
+        "direction": "ltr",
+        "flag": "🇧🇾"
+    },
+    {
+        "language_code": "bn",
+        "label": "Bengali",
+        "native_label": "বাংলা",
+        "direction": "ltr",
+        "flag": "🇧🇩"
+    },
+    {
+        "language_code": "bs",
+        "label": "Bosnian",
+        "native_label": "Bosanski",
+        "direction": "ltr",
+        "flag": "🇧🇦"
+    },
+    {
+        "language_code": "bg",
+        "label": "Bulgarian",
+        "native_label": "Български",
+        "direction": "ltr",
+        "flag": "🇧🇬"
+    },
+    {
+        "language_code": "my",
+        "label": "Burmese",
+        "native_label": "မြန်မာ",
+        "direction": "ltr",
+        "flag": "🇲🇲"
+    },
+    {
+        "language_code": "ca",
+        "label": "Catalan",
+        "native_label": "Català",
+        "direction": "ltr",
+        "flag": "🇪🇸"
+    },
+    {
+        "language_code": "ceb",
+        "label": "Cebuano",
+        "native_label": "Cebuano",
+        "direction": "ltr",
+        "flag": "🇵🇭"
+    },
+    {
+        "language_code": "ny",
+        "label": "Chichewa",
+        "native_label": "Chichewa",
+        "direction": "ltr",
+        "flag": "🇲🇼"
+    },
+    {
+        "language_code": "zh_CN",
+        "label": "Chinese (Simplified)",
+        "native_label": "简体中文",
+        "direction": "ltr",
+        "flag": "🇨🇳"
+    },
+    {
+        "language_code": "zh_TW",
+        "label": "Chinese (Traditional)",
+        "native_label": "繁體中文",
+        "direction": "ltr",
+        "flag": "🇹🇼"
+    },
+    {
+        "language_code": "co",
+        "label": "Corsican",
+        "native_label": "Corsu",
+        "direction": "ltr",
+        "flag": "🇫🇷"
+    },
+    {
+        "language_code": "hr",
+        "label": "Croatian",
+        "native_label": "Hrvatski",
+        "direction": "ltr",
+        "flag": "🇭🇷"
+    },
+    {
+        "language_code": "cs",
+        "label": "Czech",
+        "native_label": "Čeština",
+        "direction": "ltr",
+        "flag": "🇨🇿"
+    },
+    {
+        "language_code": "da",
+        "label": "Danish",
+        "native_label": "Dansk",
+        "direction": "ltr",
+        "flag": "🇩🇰"
+    },
+    {
+        "language_code": "dv",
+        "label": "Dhivehi",
+        "native_label": "ދިވެހި",
+        "direction": "rtl",
+        "flag": "🇲🇻"
+    },
+    {
+        "language_code": "nl",
+        "label": "Dutch",
+        "native_label": "Nederlands",
+        "direction": "ltr",
+        "flag": "🇳🇱"
+    },
+    {
+        "language_code": "en_US",
+        "label": "English",
+        "native_label": "English",
+        "direction": "ltr",
+        "flag": "🇺🇸"
+    },
+    {
+        "language_code": "en_GB",
+        "label": "English (UK)",
+        "native_label": "English (UK)",
+        "direction": "ltr",
+        "flag": "🇬🇧"
+    },
+    {
+        "language_code": "eo",
+        "label": "Esperanto",
+        "native_label": "Esperanto",
+        "direction": "ltr",
+        "flag": "🌐"
+    },
+    {
+        "language_code": "et",
+        "label": "Estonian",
+        "native_label": "Eesti",
+        "direction": "ltr",
+        "flag": "🇪🇪"
+    },
+    {
+        "language_code": "fil",
+        "label": "Filipino",
+        "native_label": "Filipino",
+        "direction": "ltr",
+        "flag": "🇵🇭"
+    },
+    {
+        "language_code": "fi",
+        "label": "Finnish",
+        "native_label": "Suomi",
+        "direction": "ltr",
+        "flag": "🇫🇮"
+    },
+    {
+        "language_code": "fr",
+        "label": "French",
+        "native_label": "Français",
+        "direction": "ltr",
+        "flag": "🇫🇷"
+    },
+    {
+        "language_code": "fy",
+        "label": "Frisian",
+        "native_label": "Frysk",
+        "direction": "ltr",
+        "flag": "🇳🇱"
+    },
+    {
+        "language_code": "gl",
+        "label": "Galician",
+        "native_label": "Galego",
+        "direction": "ltr",
+        "flag": "🇪🇸"
+    },
+    {
+        "language_code": "ka",
+        "label": "Georgian",
+        "native_label": "ქართული",
+        "direction": "ltr",
+        "flag": "🇬🇪"
+    },
+    {
+        "language_code": "de",
+        "label": "German",
+        "native_label": "Deutsch",
+        "direction": "ltr",
+        "flag": "🇩🇪"
+    },
+    {
+        "language_code": "el",
+        "label": "Greek",
+        "native_label": "Ελληνικά",
+        "direction": "ltr",
+        "flag": "🇬🇷"
+    },
+    {
+        "language_code": "gu",
+        "label": "Gujarati",
+        "native_label": "ગુજરાતી",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "ht",
+        "label": "Haitian Creole",
+        "native_label": "Kreyòl ayisyen",
+        "direction": "ltr",
+        "flag": "🇭🇹"
+    },
+    {
+        "language_code": "ha",
+        "label": "Hausa",
+        "native_label": "Hausa",
+        "direction": "ltr",
+        "flag": "🇳🇬"
+    },
+    {
+        "language_code": "haw",
+        "label": "Hawaiian",
+        "native_label": "ʻŌlelo Hawaiʻi",
+        "direction": "ltr",
+        "flag": "🇺🇸"
+    },
+    {
+        "language_code": "he",
+        "label": "Hebrew",
+        "native_label": "עברית",
+        "direction": "rtl",
+        "flag": "🇮🇱"
+    },
+    {
+        "language_code": "hi",
+        "label": "Hindi",
+        "native_label": "हिन्दी",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "hmn",
+        "label": "Hmong",
+        "native_label": "Hmoob",
+        "direction": "ltr",
+        "flag": "🇱🇦"
+    },
+    {
+        "language_code": "hu",
+        "label": "Hungarian",
+        "native_label": "Magyar",
+        "direction": "ltr",
+        "flag": "🇭🇺"
+    },
+    {
+        "language_code": "is",
+        "label": "Icelandic",
+        "native_label": "Íslenska",
+        "direction": "ltr",
+        "flag": "🇮🇸"
+    },
+    {
+        "language_code": "ig",
+        "label": "Igbo",
+        "native_label": "Igbo",
+        "direction": "ltr",
+        "flag": "🇳🇬"
+    },
+    {
+        "language_code": "id",
+        "label": "Indonesian",
+        "native_label": "Bahasa Indonesia",
+        "direction": "ltr",
+        "flag": "🇮🇩"
+    },
+    {
+        "language_code": "ga",
+        "label": "Irish",
+        "native_label": "Gaeilge",
+        "direction": "ltr",
+        "flag": "🇮🇪"
+    },
+    {
+        "language_code": "it",
+        "label": "Italian",
+        "native_label": "Italiano",
+        "direction": "ltr",
+        "flag": "🇮🇹"
+    },
+    {
+        "language_code": "ja",
+        "label": "Japanese",
+        "native_label": "日本語",
+        "direction": "ltr",
+        "flag": "🇯🇵"
+    },
+    {
+        "language_code": "jv",
+        "label": "Javanese",
+        "native_label": "Basa Jawa",
+        "direction": "ltr",
+        "flag": "🇮🇩"
+    },
+    {
+        "language_code": "kn",
+        "label": "Kannada",
+        "native_label": "ಕನ್ನಡ",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "kk",
+        "label": "Kazakh",
+        "native_label": "Қазақша",
+        "direction": "ltr",
+        "flag": "🇰🇿"
+    },
+    {
+        "language_code": "km",
+        "label": "Khmer",
+        "native_label": "ខ្មែរ",
+        "direction": "ltr",
+        "flag": "🇰🇭"
+    },
+    {
+        "language_code": "rw",
+        "label": "Kinyarwanda",
+        "native_label": "Ikinyarwanda",
+        "direction": "ltr",
+        "flag": "🇷🇼"
+    },
+    {
+        "language_code": "ko",
+        "label": "Korean",
+        "native_label": "한국어",
+        "direction": "ltr",
+        "flag": "🇰🇷"
+    },
+    {
+        "language_code": "ku",
+        "label": "Kurdish (Kurmanji)",
+        "native_label": "Kurdî",
+        "direction": "ltr",
+        "flag": "🇹🇷"
+    },
+    {
+        "language_code": "ckb",
+        "label": "Kurdish (Sorani)",
+        "native_label": "کوردی",
+        "direction": "rtl",
+        "flag": "🇮🇶"
+    },
+    {
+        "language_code": "ky",
+        "label": "Kyrgyz",
+        "native_label": "Кыргызча",
+        "direction": "ltr",
+        "flag": "🇰🇬"
+    },
+    {
+        "language_code": "lo",
+        "label": "Lao",
+        "native_label": "ລາວ",
+        "direction": "ltr",
+        "flag": "🇱🇦"
+    },
+    {
+        "language_code": "la",
+        "label": "Latin",
+        "native_label": "Latina",
+        "direction": "ltr",
+        "flag": "🇻🇦"
+    },
+    {
+        "language_code": "lv",
+        "label": "Latvian",
+        "native_label": "Latviešu",
+        "direction": "ltr",
+        "flag": "🇱🇻"
+    },
+    {
+        "language_code": "lt",
+        "label": "Lithuanian",
+        "native_label": "Lietuvių",
+        "direction": "ltr",
+        "flag": "🇱🇹"
+    },
+    {
+        "language_code": "lb",
+        "label": "Luxembourgish",
+        "native_label": "Lëtzebuergesch",
+        "direction": "ltr",
+        "flag": "🇱🇺"
+    },
+    {
+        "language_code": "mk",
+        "label": "Macedonian",
+        "native_label": "Македонски",
+        "direction": "ltr",
+        "flag": "🇲🇰"
+    },
+    {
+        "language_code": "mg",
+        "label": "Malagasy",
+        "native_label": "Malagasy",
+        "direction": "ltr",
+        "flag": "🇲🇬"
+    },
+    {
+        "language_code": "ms",
+        "label": "Malay",
+        "native_label": "Bahasa Melayu",
+        "direction": "ltr",
+        "flag": "🇲🇾"
+    },
+    {
+        "language_code": "ml",
+        "label": "Malayalam",
+        "native_label": "മലയാളം",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "mt",
+        "label": "Maltese",
+        "native_label": "Malti",
+        "direction": "ltr",
+        "flag": "🇲🇹"
+    },
+    {
+        "language_code": "mi",
+        "label": "Maori",
+        "native_label": "Māori",
+        "direction": "ltr",
+        "flag": "🇳🇿"
+    },
+    {
+        "language_code": "mr",
+        "label": "Marathi",
+        "native_label": "मराठी",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "mn",
+        "label": "Mongolian",
+        "native_label": "Монгол",
+        "direction": "ltr",
+        "flag": "🇲🇳"
+    },
+    {
+        "language_code": "ne",
+        "label": "Nepali",
+        "native_label": "नेपाली",
+        "direction": "ltr",
+        "flag": "🇳🇵"
+    },
+    {
+        "language_code": "no",
+        "label": "Norwegian",
+        "native_label": "Norsk",
+        "direction": "ltr",
+        "flag": "🇳🇴"
+    },
+    {
+        "language_code": "or",
+        "label": "Odia",
+        "native_label": "ଓଡ଼ିଆ",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "ps",
+        "label": "Pashto",
+        "native_label": "پښتو",
+        "direction": "rtl",
+        "flag": "🇦🇫"
+    },
+    {
+        "language_code": "fa",
+        "label": "Persian",
+        "native_label": "فارسی",
+        "direction": "rtl",
+        "flag": "🇮🇷"
+    },
+    {
+        "language_code": "pl",
+        "label": "Polish",
+        "native_label": "Polski",
+        "direction": "ltr",
+        "flag": "🇵🇱"
+    },
+    {
+        "language_code": "pt_BR",
+        "label": "Portuguese (Brazil)",
+        "native_label": "Português (Brasil)",
+        "direction": "ltr",
+        "flag": "🇧🇷"
+    },
+    {
+        "language_code": "pt_PT",
+        "label": "Portuguese (Portugal)",
+        "native_label": "Português (Portugal)",
+        "direction": "ltr",
+        "flag": "🇵🇹"
+    },
+    {
+        "language_code": "pa",
+        "label": "Punjabi",
+        "native_label": "ਪੰਜਾਬੀ",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "ro",
+        "label": "Romanian",
+        "native_label": "Română",
+        "direction": "ltr",
+        "flag": "🇷🇴"
+    },
+    {
+        "language_code": "ru",
+        "label": "Russian",
+        "native_label": "Русский",
+        "direction": "ltr",
+        "flag": "🇷🇺"
+    },
+    {
+        "language_code": "sm",
+        "label": "Samoan",
+        "native_label": "Gagana Samoa",
+        "direction": "ltr",
+        "flag": "🇼🇸"
+    },
+    {
+        "language_code": "gd",
+        "label": "Scottish Gaelic",
+        "native_label": "Gàidhlig",
+        "direction": "ltr",
+        "flag": "🇬🇧"
+    },
+    {
+        "language_code": "sr",
+        "label": "Serbian",
+        "native_label": "Српски",
+        "direction": "ltr",
+        "flag": "🇷🇸"
+    },
+    {
+        "language_code": "st",
+        "label": "Sesotho",
+        "native_label": "Sesotho",
+        "direction": "ltr",
+        "flag": "🇱🇸"
+    },
+    {
+        "language_code": "sn",
+        "label": "Shona",
+        "native_label": "Shona",
+        "direction": "ltr",
+        "flag": "🇿🇼"
+    },
+    {
+        "language_code": "sd",
+        "label": "Sindhi",
+        "native_label": "سنڌي",
+        "direction": "rtl",
+        "flag": "🇵🇰"
+    },
+    {
+        "language_code": "si",
+        "label": "Sinhala",
+        "native_label": "සිංහල",
+        "direction": "ltr",
+        "flag": "🇱🇰"
+    },
+    {
+        "language_code": "sk",
+        "label": "Slovak",
+        "native_label": "Slovenčina",
+        "direction": "ltr",
+        "flag": "🇸🇰"
+    },
+    {
+        "language_code": "sl",
+        "label": "Slovenian",
+        "native_label": "Slovenščina",
+        "direction": "ltr",
+        "flag": "🇸🇮"
+    },
+    {
+        "language_code": "so",
+        "label": "Somali",
+        "native_label": "Soomaali",
+        "direction": "ltr",
+        "flag": "🇸🇴"
+    },
+    {
+        "language_code": "es",
+        "label": "Spanish",
+        "native_label": "Español",
+        "direction": "ltr",
+        "flag": "🇪🇸"
+    },
+    {
+        "language_code": "su",
+        "label": "Sundanese",
+        "native_label": "Basa Sunda",
+        "direction": "ltr",
+        "flag": "🇮🇩"
+    },
+    {
+        "language_code": "sw",
+        "label": "Swahili",
+        "native_label": "Kiswahili",
+        "direction": "ltr",
+        "flag": "🇹🇿"
+    },
+    {
+        "language_code": "sv",
+        "label": "Swedish",
+        "native_label": "Svenska",
+        "direction": "ltr",
+        "flag": "🇸🇪"
+    },
+    {
+        "language_code": "tg",
+        "label": "Tajik",
+        "native_label": "Тоҷикӣ",
+        "direction": "ltr",
+        "flag": "🇹🇯"
+    },
+    {
+        "language_code": "ta",
+        "label": "Tamil",
+        "native_label": "தமிழ்",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "tt",
+        "label": "Tatar",
+        "native_label": "Татарча",
+        "direction": "ltr",
+        "flag": "🇷🇺"
+    },
+    {
+        "language_code": "te",
+        "label": "Telugu",
+        "native_label": "తెలుగు",
+        "direction": "ltr",
+        "flag": "🇮🇳"
+    },
+    {
+        "language_code": "th",
+        "label": "Thai",
+        "native_label": "ไทย",
+        "direction": "ltr",
+        "flag": "🇹🇭"
+    },
+    {
+        "language_code": "ti",
+        "label": "Tigrinya",
+        "native_label": "ትግርኛ",
+        "direction": "ltr",
+        "flag": "🇪🇷"
+    },
+    {
+        "language_code": "tr",
+        "label": "Turkish",
+        "native_label": "Türkçe",
+        "direction": "ltr",
+        "flag": "🇹🇷"
+    },
+    {
+        "language_code": "tk",
+        "label": "Turkmen",
+        "native_label": "Türkmençe",
+        "direction": "ltr",
+        "flag": "🇹🇲"
+    },
+    {
+        "language_code": "uk",
+        "label": "Ukrainian",
+        "native_label": "Українська",
+        "direction": "ltr",
+        "flag": "🇺🇦"
+    },
+    {
+        "language_code": "ur",
+        "label": "Urdu",
+        "native_label": "اردو",
+        "direction": "rtl",
+        "flag": "🇵🇰"
+    },
+    {
+        "language_code": "ug",
+        "label": "Uyghur",
+        "native_label": "ئۇيغۇرچە",
+        "direction": "rtl",
+        "flag": "🇨🇳"
+    },
+    {
+        "language_code": "uz",
+        "label": "Uzbek",
+        "native_label": "Oʻzbekcha",
+        "direction": "ltr",
+        "flag": "🇺🇿"
+    },
+    {
+        "language_code": "vi",
+        "label": "Vietnamese",
+        "native_label": "Tiếng Việt",
+        "direction": "ltr",
+        "flag": "🇻🇳"
+    },
+    {
+        "language_code": "cy",
+        "label": "Welsh",
+        "native_label": "Cymraeg",
+        "direction": "ltr",
+        "flag": "🇬🇧"
+    },
+    {
+        "language_code": "wo",
+        "label": "Wolof",
+        "native_label": "Wolof",
+        "direction": "ltr",
+        "flag": "🇸🇳"
+    },
+    {
+        "language_code": "xh",
+        "label": "Xhosa",
+        "native_label": "isiXhosa",
+        "direction": "ltr",
+        "flag": "🇿🇦"
+    },
+    {
+        "language_code": "yi",
+        "label": "Yiddish",
+        "native_label": "ייִדיש",
+        "direction": "rtl",
+        "flag": "🇮🇱"
+    },
+    {
+        "language_code": "yo",
+        "label": "Yoruba",
+        "native_label": "Yorùbá",
+        "direction": "ltr",
+        "flag": "🇳🇬"
+    },
+    {
+        "language_code": "zu",
+        "label": "Zulu",
+        "native_label": "isiZulu",
+        "direction": "ltr",
+        "flag": "🇿🇦"
+    }
+]
