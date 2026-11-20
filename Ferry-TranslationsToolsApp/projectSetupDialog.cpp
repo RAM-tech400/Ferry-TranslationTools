@@ -50,18 +50,6 @@ void ProjectSetupDialog::fillComboBox(){
     }
 }
 
-void ProjectSetupDialog::on_buttonBox_accepted()
-{
-    if (checkValidInputs()) {
-        // TODO: setupProject();
-    }
-}
-
-bool checkValidInputs() {
-    // TODO: check valid data for Project name, Project path, Source file, Source language.
-    return false;
-}
-
 void ProjectSetupDialog::on_pushButtonBrowseProjectPath_clicked()
 {
     QString path = QFileDialog::getExistingDirectory(this);
@@ -82,3 +70,23 @@ void ProjectSetupDialog::on_pushButtonBrowseSourceFilePath_clicked()
     }
 }
 
+
+void ProjectSetupDialog::on_buttonBox_accepted()
+{
+    if (checkValidInputs(*ui)) {
+        // TODO: setupProject()
+    } else {
+        QMessageBox::warning(this, "Invalid Inputs", "Please fill the all needed fields correctly!");
+    }
+}
+
+bool checkValidInputs(Ui::ProjectSetupDialog& ui) {
+    // TODO: This validation is not complete and need more work.
+    // 		 For **ProjectPath** and **SourceFilePath** should check for correct path.
+    // 		 this method accepts any text as files path.
+    bool isValid = ui.lineEditProjectName->text() != ""
+                   && ui.lineEditProjectPath->text() != ""
+                   && ui.lineEditSourceFilePath->text() != ""
+                   && ui.comboBoxSelectSourceLanguage->currentIndex() > 0;
+    return isValid;
+}

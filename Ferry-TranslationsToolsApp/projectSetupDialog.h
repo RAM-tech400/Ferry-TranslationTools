@@ -16,17 +16,17 @@ public:
     ~ProjectSetupDialog();
 
 private slots:
-    void on_buttonBox_accepted();
-
     void on_pushButtonBrowseProjectPath_clicked();
 
     void on_pushButtonBrowseSourceFilePath_clicked();
+
+    void on_buttonBox_accepted();
 
 private:
     Ui::ProjectSetupDialog *ui;
     void fillComboBox();
 };
 
-bool checkValidInputs();
+bool checkValidInputs(Ui::ProjectSetupDialog&);
 
 #endif // PROJECTSETUPDIALOG_H
