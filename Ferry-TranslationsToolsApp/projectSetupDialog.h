@@ -24,6 +24,7 @@ private slots:
 
 private:
     Ui::ProjectSetupDialog *ui;
+    void fillComboBox();
 };
 
 bool checkValidInputs();
