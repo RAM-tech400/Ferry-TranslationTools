@@ -13,6 +13,7 @@ SOURCES += \
 
 HEADERS += \
     ProjectConfig.h \
+    ProjectManager.h \
     mainwindow.h \
     projectSetupDialog.h
 
